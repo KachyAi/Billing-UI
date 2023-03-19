@@ -31,4 +31,4 @@
 
 ## Acknowledgments
 
-I worked on this alone, its a really nice project and id say i thank traversy, Kevin powell and Web Dev Simplified for guiding me to my web dev journey.
+I worked on this alone, I used Locations icons for the side bar options cause I was a bit lazy to download icons for it😶🙃. Anyways it uses basic HTML and CSS.
